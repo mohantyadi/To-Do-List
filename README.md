@@ -1,0 +1,1 @@
+Welcome to the To-Do List App repository! This project features a user-friendly to-do list application developed using HTML, CSS, and JavaScript. Users can effortlessly manage tasks, organize them by priority or due date, and track their progress. To get started, simply clone the repository and open the index.html file in your web browser.
